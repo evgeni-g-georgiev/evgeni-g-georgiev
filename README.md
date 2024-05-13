@@ -1,4 +1,4 @@
-#### Hiya! I'm Evgeni 👋
+### Hiya! I'm Evgeni 👋
 
 📍 **Providing complex solutions within Equity Derivatives & Quantitative Investments at Societe Generale | LSE Maths grad keen to never stop learning.**
 
