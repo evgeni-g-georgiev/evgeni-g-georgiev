@@ -1,10 +1,12 @@
-### Hiya! 👋 My name is Evgeni and I'm a young professional working at the intersection of Data & Finance.
+## Hiya! I'm Evgeni 👋
 
-- 🎓 I'm on a constant learning journey and will be using my GitHub profile to showcase some of my work and skills...
-- 🌱 I'm currently looking to dive deeper into LLMs and their business applications
-- 🤝 I'm keen to collab with anyone interested in my work!
-- 📫 How to reach me: on linkedin is best for now, https://www.linkedin.com/in/evgeni-georgiev-7a70a8173/
-- ✨ Here are some of my current projects, I hope to add more as time comes:
+📍 **Providing complex solutions within Equity Derivatives & Quantitative Investments at Societe Generale | LSE Maths grad keen to never stop learning.**
+
+- 🎓 I'm on a constant learning journey and will be using my GitHub profile as a venue to showcase some of my work and skills.
+- 🌱 I'm currently looking to dive deeper into LLMs and their business applications... Got tips or insights? Let's chat!
+- 🤝 I love meeting new people and swapping cool ideas—especially if you're into data, finance, or tech innovation. Let's build something awesome together!
+- 📫 The best way to catch me is on [LinkedIn](https://www.linkedin.com/in/evgeni-georgiev-7a70a8173/)
+- ✨ Here are some of my projects, I hope to add more as time comes:
   - [Bulgarian Stock Market Price Prediction using Neural Networks](https://github.com/evgeni-g-georgiev/Bulgarian_Stock_Market_Price_Prediction) 
   - [Bayesian Modelling to predict credit card user default](https://github.com/evgeni-g-georgiev/Bayesian-Credit-Card-Default-Model) 
   - [Clustering and PCA techniques to provide insights for NGOs](https://github.com/evgeni-g-georgiev/Clustering-and-PCA-for-advising-NGOs) 
