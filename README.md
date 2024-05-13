@@ -5,10 +5,10 @@
 - 🤝 I'm keen to collab with anyone interested in my work!
 - 📫 How to reach me: on linkedin is best for now, https://www.linkedin.com/in/evgeni-georgiev-7a70a8173/
 - ✨ Here are some of my current projects, I hope to add more as time comes:
-  - [Bulgarian Stock Market Price Prediction using Neural Networks](https://github.com/evgeni-g-georgiev/Bulgarian_Stock_Market_Price_Prediction) - Using deep learning models to predict the price movement of the Bulgarian Stock Exchanges SOFIX Index.
-  - [Bayesian Modelling to predict credit card user default](https://github.com/evgeni-g-georgiev/Bayesian-Credit-Card-Default-Model) - Using Bayesian modelling to predict default of credit card users.
-  - [Clustering and PCA to provide insights for NGOs](https://github.com/evgeni-g-georgiev/Clustering-and-PCA-for-advising-NGOs) - Utilising clustering and PCA reduction methods to provide insights for NGOs.
-  - [Building Neural Nets from first principles](https://github.com/evgeni-g-georgiev/Building-neural-networks-from-scratch) - Building a neural network model from first principles using only NumPy.
+  - [Bulgarian Stock Market Price Prediction using Neural Networks](https://github.com/evgeni-g-georgiev/Bulgarian_Stock_Market_Price_Prediction) 
+  - [Bayesian Modelling to predict credit card user default](https://github.com/evgeni-g-georgiev/Bayesian-Credit-Card-Default-Model) 
+  - [Clustering and PCA techniques to provide insights for NGOs](https://github.com/evgeni-g-georgiev/Clustering-and-PCA-for-advising-NGOs) 
+  - [Building Neural Nets from first principles using only NumPy](https://github.com/evgeni-g-georgiev/Building-neural-networks-from-scratch) 
 
 
 <!--
