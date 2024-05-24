@@ -3,10 +3,10 @@
 📍 **Providing complex solutions within Equity Derivatives & Quantitative Investments at Societe Generale | LSE Maths grad keen to never stop learning.**
 
 - 🎓 I'm on a constant learning journey and will be using my GitHub profile as a venue to showcase some of my work and skills.
-- 🌱 I'm currently looking to dive deeper into LLMs and their business applications... Got tips or insights? Let's chat!
+- 🌱 I'm currently working on diving deeper into LLMs and their business applications... Got tips or insights? Let's chat!
 - 🤝 I love meeting new people and swapping ideas — especially if you're into data, finance, or tech innovation. Let's work on something cool together!
 - 📫 The best way to catch me is on [LinkedIn](https://www.linkedin.com/in/evgeni-georgiev-7a70a8173/)
-- ✨ Here are some of my projects, I hope to add more as time comes:
+- ✨ Here's a snippet of some of my projects:
   - [Bulgarian Stock Market Price Prediction using Neural Networks](https://github.com/evgeni-g-georgiev/Bulgarian_Stock_Market_Price_Prediction)
   - [Showcasing the power of XGBoost in credit default prediction](https://github.com/evgeni-g-georgiev/XGBoost_Credit_Default_Model) 
   - [Bayesian Modelling to predict credit card user default](https://github.com/evgeni-g-georgiev/Bayesian-Credit-Card-Default-Model) 
