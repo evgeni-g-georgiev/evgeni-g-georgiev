@@ -1,7 +1,7 @@
 ### Hiya! I'm Evgeni 👋
 
-🤖 **Working on making Robotic Harvesting commercially feasible at Goldsmiths Corporation.**
-📈 **Ex-Equity Derivatives & Quantitative Investment Solutions at Société Générale.**
+🤖 **Working on making Robotic Harvesting commercially feasible at Goldsmiths Corporation.** <br />
+📈 **Ex-Equity Derivatives & Quantitative Investment Solutions at Société Générale.** <br />
 🧑‍🎓 **Class of '26, MSc AI at Imperial, Class of '21, BSc Mathematics and Economics at LSE**
 
 
