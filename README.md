@@ -1,8 +1,6 @@
 ### Hiya! I'm Evgeni 👋
 
-🤖 **Working on making Robotic Harvesting commercially feasible at Goldsmiths Corporation.** <br />
-📈 **Ex-Equity Derivatives & Quantitative Investment Solutions at Société Générale.** <br />
-🧑‍🎓 **Class of '26, MSc AI at Imperial, Class of '21, BSc Mathematics and Economics at LSE**
+I am currently a Machine Learning Engineer at Goldsmiths where we are working on making robotic harvesting commercially feasible. Alongside this, I am currently doing my MSc in Artificial Intelligence at Imperial College London. Prior to this, I spent 4 years working at Société Générale selling equity derivative products & quantitative investment solutions to hedge funds. 
 
 
 
