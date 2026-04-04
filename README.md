@@ -11,4 +11,4 @@ and other problems that matter outside the lab.
 - 🌍 Conditional diffusion models for paleoclimate field reconstruction (MSc dissertation)
 - 🔊 TinyML for sound anomaly detection on resource-constrained hardware
 
-**Reach me:** [LinkedIn](linkedin.com/in/evgeni-georgiev-7a70a8173)
+**Reach me:** [LinkedIn](https://www.linkedin.com/in/evgeni-georgiev-7a70a8173/)
