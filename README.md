@@ -1,21 +1,14 @@
-### Hiya! I'm Evgeni 👋
+### Hi, I'm Evgeni 👋
 
-I am currently a Machine Learning Engineer at Goldsmiths where we are working on making robotic harvesting commercially feasible. Alongside this, I am currently doing my MSc in Artificial Intelligence at Imperial College London. Prior to this, I spent 4 years working at Société Générale selling equity derivative products & quantitative investment solutions to hedge funds. 
+I'm an MSc AI student at Imperial College London, currently working on 
+conditional diffusion models for paleoclimate field reconstruction. 
+Before Imperial I spent four years in Quantitative Investment Solutions after 
+reading Maths & Economics at the LSE.
 
+I'm interested in applied machine learning for climate, earth science, and other problems that matter outside the lab.
 
+**Currently working on:**
+- 🌍 Conditional diffusion models for climate fields (MSc dissertation)
+- 🔊 TinyML for sound anomaly detection on resource-constrained hardware
 
-
-<!--
-**evgeni-g-georgiev/evgeni-g-georgiev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Reach me:** [LinkedIn](linkedin.com/in/evgeni-georgiev-7a70a8173)
