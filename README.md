@@ -4,7 +4,7 @@ MSc AI student at Imperial College London. Before Imperial, I spent four
 years in Quantitative Investment Solutions after reading Maths & Economics 
 at the LSE.
 
-I'm interested in applied machine learning for climate, earth science, 
+I'm interested in applied machine learning for climate, science, 
 and other problems that matter outside the lab.
 
 **Currently working on:**
