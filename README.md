@@ -6,7 +6,7 @@ I have experience building generative and probabilistic models for inference fro
 
 **Currently working on:**
 
-- 🌍 **Latent generative priors for paleoclimate data assimilation** (MSc dissertation).
+- 🌍 **Generative priors for paleoclimate data assimilation** (MSc dissertation).
   Reconstructing dense temperature fields from sparse proxy observations. Built and
   benchmarked a Gaussian 3DVar pipeline in pixel space and three learned latent spaces
   against classical baselines; now extending it toward a score-based diffusion prior.
