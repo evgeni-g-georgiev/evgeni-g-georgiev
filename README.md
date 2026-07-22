@@ -2,7 +2,7 @@
 
 MSc Artificial Intelligence at Imperial College London. Before Imperial I spent four years in Quantitative Investment Solutions at Société Générale, after reading Maths and Economics at the LSE, and more recently built computer-vision pipelines for a robotic-harvesting startup.
 
-I have experience building generative and probabilistic models for inference from sparse, noisy and incomplete data (Bayesian inverse problems, data assimilation and uncertainty quantification), and putting them up against strong classical baselines. I've applied these methods to climate-field reconstruction and to industrial anomaly detection on edge hardware. I'm looking for research-facing or applied ML work on hard problems where the creativity matters, with a particular interest in climate and the physical sciences.
+I have experience building generative and probabilistic models for inference from sparse, noisy and incomplete data (bayesian inverse problems, data assimilation and uncertainty quantification), and putting them up against strong classical baselines. I've applied these methods to climate-field reconstruction and to industrial anomaly detection on edge hardware. I'm looking for research-facing or applied ML work on hard problems where creativity matters, with a particular interest in climate and the physical sciences.
 
 **Currently working on:**
 
